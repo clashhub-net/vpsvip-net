@@ -57,6 +57,7 @@ A: 查看我们的推荐列表：[vpsvip.net](https://vpsvip.net)
 ## 相关资源
 
 - [Clash for Windows 教程](https://clash-for-windows.net)
+- [Clash Verge Rev 官方下载](https://clashvergerev.site/)
 - [机场推荐导航](https://nav.clashvip.net)
 - [Clash 规则集](https://clashhub.net)
 - [讨论社区](https://bbs.clashhub.net)
